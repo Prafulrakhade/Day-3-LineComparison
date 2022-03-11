@@ -9,6 +9,7 @@ namespace LineComparisons
             Class1 check = new Class1();
             check.Length();
             check.Equal();
+            check.Compare();
         }
     }
 }
